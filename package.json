@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap_jumbo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rali-28/bootstrap_jumbo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rali-28/bootstrap_jumbo/issues"
+  },
+  "homepage": "https://github.com/Rali-28/bootstrap_jumbo#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.1"
+  }
+}
